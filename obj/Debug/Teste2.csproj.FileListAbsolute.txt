@@ -1,0 +1,7 @@
+C:\Users\erisn\OneDrive\Ambiente de Trabalho\Teste2\obj\Debug\Teste2.csproj.AssemblyReference.cache
+C:\Users\erisn\OneDrive\Ambiente de Trabalho\Teste2\obj\Debug\Teste2.csproj.CoreCompileInputs.cache
+C:\Users\erisn\OneDrive\Ambiente de Trabalho\Teste2\bin\Debug\Teste2.exe.config
+C:\Users\erisn\OneDrive\Ambiente de Trabalho\Teste2\bin\Debug\Teste2.exe
+C:\Users\erisn\OneDrive\Ambiente de Trabalho\Teste2\bin\Debug\Teste2.pdb
+C:\Users\erisn\OneDrive\Ambiente de Trabalho\Teste2\obj\Debug\Teste2.exe
+C:\Users\erisn\OneDrive\Ambiente de Trabalho\Teste2\obj\Debug\Teste2.pdb
